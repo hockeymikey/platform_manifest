@@ -18,7 +18,7 @@
   <project path="device/qcom/sepolicy" name="hockeymikey/device_qcom_sepolicy" remote="mn" />
   <project path="external/DUtils" name="ResurrectionRemix/external_DUtils" remote="rr"/>
   <project path="frameworks/base" name="hockeymikey/android_frameworks_base" remote="mn" />
-  <project path="frameworks/native" name="ResurrectionRemix/frameworks_native" remote="rr" />
+  <project path="frameworks/native" name="hockeymikey/frameworks_native" remote="mn" />
   <project path="frameworks/opt/slimrecent" name="hockeymikey/frameworks_opt_slimrecent" remote="mn" />
   <project path="lineage-sdk" name="hockeymikey/lineage-sdk" remote="mn" />
   <project path="packages/apps/Contacts" name="ResurrectionRemix/android_packages_apps_Contacts" remote="rr" />
