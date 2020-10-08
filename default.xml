@@ -14,6 +14,14 @@
            fetch="https://github.com/"
            revision="oreo" />
 
+  <remote  name="l"
+           fetch="https://github.com/"
+           revision="lineage-15.1" />
+
+  <remote  name="mnt"
+           fetch="https://github.com/"
+           revision="los-o" />
+
   <remote  name="rr-devices"
            fetch="https://github.com/ResurrectionRemix-Devices"
            revision="oreo" />

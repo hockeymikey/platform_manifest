@@ -17,24 +17,26 @@
   <project path="device/rr/sepolicy" name="hockeymikey/device_rr_sepolicy" remote="mn" />
   <project path="device/qcom/sepolicy" name="hockeymikey/device_qcom_sepolicy" remote="mn" />
   <project path="external/DUtils" name="ResurrectionRemix/external_DUtils" remote="rr"/>
-  <project path="frameworks/base" name="hockeymikey/android_frameworks_base" remote="mn" />
-  <project path="frameworks/native" name="hockeymikey/frameworks_native" remote="mn" />
+  <project path="frameworks/base" name="hockeymikey/android_frameworks_base" remote="mnt" />
+  <project path="frameworks/native" name="hockeymikey/frameworks_native" remote="mnt" />
   <project path="frameworks/opt/slimrecent" name="hockeymikey/frameworks_opt_slimrecent" remote="mn" />
-  <project path="lineage-sdk" name="hockeymikey/lineage-sdk" remote="mn" />
-  <project path="packages/apps/Contacts" name="ResurrectionRemix/android_packages_apps_Contacts" remote="rr" />
+  <project path="lineage-sdk" name="hockeymikey/lineage-sdk" remote="mnt" />
+  <project path="packages/apps/Contacts" name="hockeymikey/android_packages_apps_Contacts" remote="mn" />
   <project path="packages/apps/Dialer" name="hcokeymikey/android_packages_apps_Dialer" remote="mn" />
   <project path="packages/apps/DUI" name="hockeymikey/packages_apps_DUI" remote="mn" />
   <project path="packages/apps/ResurrectionOTA" name="hockeymikey/packages_apps_ResurrectionOTA" remote="mn" />
   <project path="packages/apps/Messaging" name="hockeymikey/android_packages_apps_Messaging" remote="mn" />
   <project path="packages/apps/OmniStyle" name="ResurrectionRemix/android_packages_apps_OmniStyle" remote="rr" />
   <project path="packages/apps/Settings" name="hockeymikey/Resurrection_packages_apps_Settings" remote="mn" />
+  <project path="packages/apps/seedvault-prebuilt" name="hockeymikey/seedvault-prebuilt" remote="mn" />
+  <project path="packages/apps/LineageSetupWizard" name="hockeymikey/android_packages_apps_SetupWizard" remote="l" />
   <project path="packages/apps/SnapdragonCamera2" name="omnirom/android_packages_apps_SnapdragonCamera2" remote="github" revision="android-8.1" />
   <project path="packages/apps/Trebuchet" name="hockeymikey/android_packages_apps_Trebuchet" remote="mn" />
   <project path="packages/services/Telecomm" name="ResurrectionRemix/android_packages_services_Telecomm" remote="rr" />
   <project path="packages/services/Telephony" name="hockeymikey/android_packages_services_Telephony" remote="mn" />
   <project name="ResurrectionRemix/packages_services_OmniJaws" path="packages/services/OmniJaws" remote="rr" />
-  <project path="packages/apps/LineageParts" name="ResurrectionRemix/packages_apps_LineageParts" remote="rr"/>
-  <project name="ResurrectionRemix/android_packages_overlays_Resurrection" path="packages/overlays/Resurrection" remote="rr" />
+  <project path="packages/apps/LineageParts" name="hockeymikey/packages_apps_LineageParts" remote="mn"/>
+  <project path="packages/overlays/Resurrection" name="hockeymikey/android_packages_overlays_Resurrection" remote="mn" />
   <project path="prebuilts/clang/host/linux-x86" name="AOSiP/platform_prebuilts_clang_host_linux-x86" clone-depth="1" remote="github" revision="oreo-mr1" />
   <project path="system/core" name="hockeymikey/system_core" remote="mn" />
   <project path="system/sepolicy" name="hockeymikey/android_system_sepolicy" remote="mn" />
