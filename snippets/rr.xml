@@ -22,7 +22,7 @@
   <project path="frameworks/opt/slimrecent" name="hockeymikey/frameworks_opt_slimrecent" remote="mn" />
   <project path="lineage-sdk" name="hockeymikey/lineage-sdk" remote="mnt" />
   <project path="packages/apps/Contacts" name="hockeymikey/android_packages_apps_Contacts" remote="mn" />
-  <project path="packages/apps/Dialer" name="hcokeymikey/android_packages_apps_Dialer" remote="mn" />
+  <project path="packages/apps/Dialer" name="hockeymikey/android_packages_apps_Dialer" remote="mn" />
   <project path="packages/apps/DUI" name="hockeymikey/packages_apps_DUI" remote="mn" />
   <project path="packages/apps/ResurrectionOTA" name="hockeymikey/packages_apps_ResurrectionOTA" remote="mn" />
   <project path="packages/apps/Messaging" name="hockeymikey/android_packages_apps_Messaging" remote="mn" />
